@@ -3,7 +3,7 @@ Trabalho AP1 Cleyton
 
 Trabalho feito por:
 
-Luahn Kayê
-Luigi Fernando
-Gabriel Mendonça
+Luahn Kayê,
+Luigi Fernando,
+Gabriel Mendonça,
 João Victor
